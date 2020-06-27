@@ -110,7 +110,6 @@ As a start, we got to explore what’s on [Google Fonts](https://fonts.google.co
 
 # Tool
 
-Hang on! Where did we do all of this? We created a mood board on Figma and put items there. We stacked colors next to each other, created different sizes of the text, edited photographs to look in a certain way, and kept experimenting. 
-
-# Next article
-In the next article, we’ll explore how we’ve applied the above to create a dentist website. We’ll look at how we designed both mobile and desktop.
+Hang on! Where did we do all of this? We created a mood board on Figma and put items there.
+ 
+We stacked colors next to each other, created different sizes of the text, edited photographs to look in a certain way, and kept experimenting. 
