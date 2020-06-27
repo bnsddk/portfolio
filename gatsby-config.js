@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'bnsddk portfolio',
+    siteTitle: 'Omar Benseddik',
     siteDescription: 'Omar Benseddik Portfolio',
     siteImage: '/banner.png', // main image of the site for metadata
     siteUrl: 'https://chronoblog-hacker.now.sh/',
