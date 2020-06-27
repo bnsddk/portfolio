@@ -1,33 +1,33 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Hacker Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: 'bnsddk portfolio',
+    siteDescription: 'Omar Benseddik Portfolio',
     siteImage: '/banner.png', // main image of the site for metadata
     siteUrl: 'https://chronoblog-hacker.now.sh/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
+    author: 'Omar Benseddik', // for example - 'Ivan Ganev'
+    authorDescription: 'Front-end web dev #html #css #js #react', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
       {
         icon: `at`,
-        url: `mailto:mymail@mail.com`
+        url: `mailto:omar.benseddik1@mail.com`
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`
+        url: `https://twitter.com/bnsddk`
       },
       {
         icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`
+        url: `https://github.com/bnsddk`
       },
       {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
+        icon: `linkedin`,
+        url: `https://www.linkedin.com/in/benseddik/`
       }
     ]
   },
